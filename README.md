@@ -1,1 +1,1 @@
-"# kerala-election-results-2021" 
+# kerala-election-results-2021 
